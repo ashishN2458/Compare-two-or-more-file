@@ -1,5 +1,5 @@
 # Compare-two-or-more-file
-Compare two or more files line by line in Python and calculate some formula, show yes or no keywords for data matching and implement auto sent mail sent.
+Compare two or more files line by line in Python and calculate some formula, show yes or no keywords for data matching and implement auto sent mail.
 
 Important Note: 
 1. Create folder(unite) in custom folder path. For e.g /projectName/unite(folderName)/
