@@ -1,5 +1,5 @@
 #  Compare two or more different sheet to find common data
-Compare two or more files line by line in Python using some formula and display yes or no keywords for data match line and implement auto sent mail.
+Compare two or more files line by line in python using some formula and display yes or no keywords for data match line and implement auto sent mail.
 
 Important Note: 
 1. Create folder(unite) in custom folder path. For e.g /projectName/unite(folderName)/
